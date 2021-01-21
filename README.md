@@ -1,5 +1,5 @@
 # freedink-retrofw
-A quick fix for the binary release of FreeDink for the RS97 portable system.
+A quick fix for the binary release of FreeDink that was originally made for the RS97 system.
 
 For some reason, they didn't release the source code for the port, and I haven't been able to piece together what was changed to re-compile from source myself.
 
