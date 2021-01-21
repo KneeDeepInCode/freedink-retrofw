@@ -6,3 +6,5 @@ For some reason, they didn't release the source code for the port, and I haven't
 The original RS97 binary release had some dependencies missing for RetroFW 2.x, so I unsquashfs'd it and added them in, with only minor other changes. Here is the final product.
 
 It was last tested working on RetroFW 2.2 on the LDK Game.
+
+Check the GitHub Releases page for this repo for the files.
