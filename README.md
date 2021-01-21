@@ -7,4 +7,4 @@ The original RS97 binary release had some dependencies missing for RetroFW 2.x, 
 
 It was last tested working on RetroFW 2.2 on the LDK Game.
 
-Check the GitHub Releases page for this repo for the files.
+Check the GitHub Releases page of this repo for the files.
